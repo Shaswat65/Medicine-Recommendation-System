@@ -26,14 +26,23 @@ Tech Stack
 5) Other Tools: Markdown, CSV dataset
 
 Project Structure
+
 📁 Medicine-Recommendation-System
+
 │── app.py
+
 │── api.txt
+
 │── combined_output.csv
+
 │── templates/
+
 │    ├── index.html
+
 │    └── result.html
+
 │── static/ (optional)
+
 │── README.md
 
 Dataset Information
